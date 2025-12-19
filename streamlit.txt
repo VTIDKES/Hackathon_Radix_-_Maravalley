@@ -1,5 +1,8 @@
-requirements
-streamlit
-pandas
-numpy
+streamlit>=1.26
+pandas>=2.0
+numpy>=1.25
+matplotlib>=3.8
+scikit-learn>=1.3
+geopandas>=0.14
+pandapower>=2.8
 
