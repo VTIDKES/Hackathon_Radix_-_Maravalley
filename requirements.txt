@@ -1,11 +1,7 @@
 streamlit
-pandas==2.0.3
-numpy<2.0.0
-geopandas
-shapely
+pandas
+numpy
 plotly
-pandapower
 scikit-learn
 requests
-rtree
 
